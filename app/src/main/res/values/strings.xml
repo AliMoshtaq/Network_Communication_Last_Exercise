@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetworkCommunicationLasExercise</string>
+    <string name="covid_19">Covid 19</string>
+    <string name="title">Covid cases in Italy today</string>
+    <string name="new_cases">New cases: %d</string>
+    <string name="active_cases">Active cases: %d</string>
+    <string name="critical_cases">Critical cases: %d</string>
+    <string name="recovered">Recovered cases: %d</string>
+    <string name="total">Total cases: %d</string>
+    <string name="day">Date: %s</string>
+</resources>

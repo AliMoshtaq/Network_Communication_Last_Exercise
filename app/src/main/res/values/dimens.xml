@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageView_width">160dp</dimen>
+    <dimen name="imageView_height">160dp</dimen>
+    <dimen name="marginTop_imageView">10dp</dimen>
+    <dimen name="marginTop_TextView">40dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="textSize_title">30sp</dimen>
+    <dimen name="marginStart">15dp</dimen>
+</resources>
